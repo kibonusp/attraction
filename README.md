@@ -1,4 +1,4 @@
-# my-sketch
+# attraction
 
 A Quil sketch designed to give a basic understanding and basis on attraction and repulsion forces.
 
