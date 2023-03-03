@@ -4,7 +4,7 @@
             [quil.core :as q]))
 
 (def G 50)
-(def fmax -6)
+(def fmax 6)
 (def rmin 60)
 (def rmax 300)
 
