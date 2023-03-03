@@ -10,6 +10,8 @@ Left-click on the mouse to add an attractor or repeller, depending on $f_{max}$.
 
 Press space to take a picture. It will be available on `generated/image.png`.
 
+If you have Java installed, you can also run the standadlone with `java -jar target/attraction-0.1.0-SNAPSHOT-standalone.jar`.
+
 ## Examples
 
 ![Code examples](image.png)
