@@ -42,6 +42,7 @@ h(x) = \frac{2f_{max}x}{r_{min}-r_{max}} - \frac{2f_{max}r_{max}}{r_{min}-r_{max
 d(x) = 0, \text{ } ) 0, +\infty(
 \end{cases}
 $$
+
 ![Linear system](function.png)
 
 ## About
