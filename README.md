@@ -23,17 +23,16 @@ $$
 $$
 you get $\vec{F_g} = \frac{G}{r^2}$ for same masses.
 
-Using Newton`s 2nd law, you get $\vec{F} = m \cdot \vec{a}$, but since $m = 1$, $\vec{F} = \vec{a}$.
+Using Newton 2nd law, you get $\vec{F} = m \cdot \vec{a}$, but since $m = 1$, $\vec{F} = \vec{a}$.
 Thus,
 $$
 \vec{a} = \frac{G}{r^2}
 $$
 
-For the future repo "Particle Life", based on the video below, I wanted to manipulate the acceleration in a way it repeals when the distance is two short ($d_{min}$) and attracts when is distant until a threshold ($d_{max}$).
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/p4YirERTVF0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+For the future repo "Particle Life", based on [this video](https://www.youtube.com/watch?v=p4YirERTVF0), I wanted to manipulate the acceleration in a way it repeals when the distance is two short ($d_{min}$) and attracts when is distant until a threshold ($d_{max}$).
 
 The linear system which does that is the following:
+
 $$
 \begin{cases}
 u(x) = -1, \text{ } )-\infty, -1( \\
