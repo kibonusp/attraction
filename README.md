@@ -14,7 +14,7 @@ If you have Java installed, you can also run the standadlone with `java -jar tar
 
 ## Examples
 
-![Code examples](image.png)
+![Code examples](images/image.png)
 
 ## Explanation
 The code is based on particles and attractors (or repellers) of same mass equal to 1. 
@@ -48,7 +48,7 @@ d(x) = 0, \text{ } ) 0, +\infty(
 \end{cases}
 $$
 
-![Linear system](function.png)
+![Linear system](images/function.png)
 
 ## About
 
