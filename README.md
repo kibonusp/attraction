@@ -18,13 +18,16 @@ Press space to take a picture. It will be available on `generated/image.png`.
 The code is based on particles and attractors (or repellers) of same mass equal to 1. 
 
 Using the Gravitational Force Formula,
+
 $$
 \vec{F_g} = G\frac{m_1m_2}{r^2}
 $$
+
 you get $\vec{F_g} = \frac{G}{r^2}$ for same masses.
 
 Using Newton 2nd law, you get $\vec{F} = m \cdot \vec{a}$, but since $m = 1$, $\vec{F} = \vec{a}$.
 Thus,
+
 $$
 \vec{a} = \frac{G}{r^2}
 $$
