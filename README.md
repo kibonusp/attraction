@@ -34,7 +34,7 @@ $$
 \vec{a} = \frac{G}{r^2}
 $$
 
-For the future repo "Particle Life", based on [this video](https://www.youtube.com/watch?v=p4YirERTVF0), I wanted to manipulate the acceleration in a way it repeals when the distance is two short ($d_{min}$) and attracts when is distant until a threshold ($d_{max}$).
+For the future repo "Particle Life", based on [this video](https://www.youtube.com/watch?v=p4YirERTVF0), I wanted to manipulate the acceleration in a way it repeals when the distance is too short ($d_{min}$) and attracts when is distant until a threshold ($d_{max}$).
 
 The linear system which does that is the following:
 
